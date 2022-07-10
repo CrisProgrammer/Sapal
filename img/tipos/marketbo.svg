@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300.11307mm"
+   height="80.886909mm"
+   viewBox="0 0 300.11306 80.886909"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="marketbo.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient849"
+       inkscape:collect="always">
+      <stop
+         id="stop845"
+         offset="0"
+         style="stop-color:#f01e54;stop-opacity:1" />
+      <stop
+         id="stop847"
+         offset="1"
+         style="stop-color:#f5f5f5;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient875">
+      <stop
+         style="stop-color:#f01e54;stop-opacity:1"
+         offset="0"
+         id="stop871" />
+      <stop
+         style="stop-color:#f5f5f5;stop-opacity:0"
+         offset="1"
+         id="stop873" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient849"
+       id="linearGradient877"
+       x1="84.743446"
+       y1="91.916321"
+       x2="15.077166"
+       y2="100.98775"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-12.095238,3.0238095)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient875"
+       id="linearGradient877-4"
+       x1="93.962463"
+       y1="82.547913"
+       x2="181.99895"
+       y2="82.083351"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4305833,0,0,1.4305833,-240.84815,-55.959093)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="585.71428"
+     inkscape:cy="-82.857132"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(184.45238,-46.023808)">
+    <rect
+       style="opacity:1;fill:#121212;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.53353322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect828"
+       width="300.11307"
+       height="80.886909"
+       x="-184.45238"
+       y="46.023808"
+       rx="2.3510954"
+       ry="2.3510954" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.93472195px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient877);fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="19.654766"
+       y="109.5238"
+       id="text832"><tspan
+         sodipodi:role="line"
+         id="tspan830"
+         x="19.654766"
+         y="109.5238"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.79999924px;font-family:'Adobe Caslon Pro';-inkscape-font-specification:'Adobe Caslon Pro Bold';fill:url(#linearGradient877);fill-opacity:1;fill-rule:evenodd;stroke-width:0.26458332">BO</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot853"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.66666794px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion855"><rect
+           id="rect857"
+           width="48.57143"
+           height="105.71429"
+           x="271.42856"
+           y="473.94824" /></flowRegion><flowPara
+         id="flowPara859" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.93472195px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="158.75"
+       y="104.9881"
+       id="text887"><tspan
+         sodipodi:role="line"
+         id="tspan885"
+         x="158.75"
+         y="117.70116"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.93478012px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient877-4);fill-opacity:1;stroke:none;stroke-width:0.37850851"
+       x="-195.42712"
+       y="96.39801"
+       id="text832-6"
+       transform="scale(0.87914197,1.1374727)"><tspan
+         sodipodi:role="line"
+         id="tspan830-5"
+         x="-195.42712"
+         y="96.39801"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:72.67362976px;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush Bold';fill:url(#linearGradient877-4);fill-opacity:1;fill-rule:evenodd;stroke-width:0.37850851">Market</tspan></text>
+  </g>
+</svg>
