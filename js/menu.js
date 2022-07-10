@@ -24,10 +24,10 @@ $(document).ready(function(){
 	} else {
 		$("li #proveedores1").removeClass('active');
 	} 
-	if (id_body==="productos"){
-		$("li #productos1").addClass('active');
+	if (id_body==="product"){
+		$("li #product1").addClass('active');
 	} else {
-		$("li #productos1").removeClass('active');
+		$("li #product1").removeClass('active');
 	} 
 	if (id_body==="login"){
 		$("li #login1").addClass('active');

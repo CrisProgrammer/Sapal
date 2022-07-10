@@ -10,3 +10,10 @@ function mostrarScroll() {
     }
 }
 window.addEventListener('scroll',mostrarScroll)
+
+let animado1 = document.querySelectorAll(".animado1");
+    for (i=0; i<animado1.length;++i){
+            animado1[i].style.opacity =1;
+            animado1[i].classList.add("mostrarArriba")
+        }
+window.addEventListener('scroll',mostrarScroll)
