@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>EFECTIV FHARMA - Oficial</title>
+    <title>SAPAL - Oficial</title>
 	<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,700' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> 
 	<link rel="stylesheet" href="css/bootstrap.min.css">
@@ -27,11 +27,14 @@
     </header>  
     
     <!-- slides -->
-    <div class="parallax01 row">
-        <div class="col-lg-6 col-sm-10 illustrator" id="efectividad">
+    <div class="parallax01">
+    <div class="col-lg-12 col-sm-12 parallax02" id="capa">
+        <div class="col-lg-5 col-sm-10 illustrator" id="sapal"></div>
         </div>
-        <div class="col-lg-6 col-sm-12 parallax02" id="iconos1">
-        </div>
+        <div class="col-lg-6 col-sm-12 titulo animado1">
+                <h1>MEDICAMENTOS DE CALIDAD CON TOTAL SEGURIDAD</h1>
+            </div>
+
     </div>
 
     <!-- crecimiento -->
@@ -127,7 +130,7 @@
             </div>
         </div>
     </div>
-    <div class="row parallax03 illustrator2 animado">
+<!--    <div class="row parallax03 illustrator2 animado">
         <div class="descripcion texto topico02">
             <p> PROCESO DE IMPORTACIÓN<br>
                 Gracias al valor del trabajo de nuestro recurso humano EFECTIV FHARMA ha logrado un proceso eficiente, flexible y colaborativo.
@@ -143,7 +146,7 @@
                 Gracias al valor del trabajo de nuestro recurso humano EFECTIV FHARMA ha logrado un proceso eficiente, flexible y colaborativo.
             </p>
         </div>
-    </div>
+    </div>-->
     <?php include('pag_final.php'); ?>
     <script src="js/bootstrap.min.js"></script>
 <!-- Menú -->
